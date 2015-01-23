@@ -1,0 +1,9 @@
+291,,No,No,0,0,0,10,0,0,0,Feeder,,0,No Attempt,10
+3504,,Yes,No,0,0,0,0,0,0,0,None,,0,Attempt, Fail,0
+484,,Yes,No,0,0,0,0,0,4,0,None,,0,Bottom (10 pts.),4
+1629,,Yes,No,0,0,3,0,13,4,0,Feeder,Need!!!,13,Bottom (10 pts.),27
+3260,,Yes,No,0,0,0,0,0,0,0,Feeder,,2,No Attempt,2
+1708,,Yes,No,0,0,3,0,0,8,0,Feeder,,4,No Attempt,12
+2641,,Yes,No,0,0,0,0,0,0,0,Feeder,,0,Bottom (10 pts.),0
+1743,,Yes,No,0,0,1,0,0,4,0,Floor,,1,No Attempt,5
+2614,,Yes,No,0,0,0,0,0,7,0,None,,5,Bottom (10 pts.),12

@@ -1,0 +1,18 @@
+4803,only moved,Yes,No,0,0,0,0,0,0,0,None,nothing very bad sat,0,No Attempt,0
+1503,,Yes,No,0,0,1,0,0,3,0,Feeder,good with teamwork,5,No Attempt,8
+4615,,No,No,0,0,0,8,0,0,0,Feeder,can only do bottom shots,0,No Attempt,8
+3062,,Yes,No,0,1,0,0,0,0,0,Feeder,,0,No Attempt,0
+4050,,Yes,No,0,0,2,0,0,4,0,Feeder,,2,No Attempt,6
+4547,,Yes,No,0,0,0,0,0,0,0,Feeder,,0,No Attempt,0
+128,,Yes,No,0,0,3,0,0,12,0,Feeder,consistant accurate shooter,0,Bottom (10 pts.),12
+2655,,No,No,0,0,0,0,0,0,0,None,didn't do much,0,No Attempt,0
+2252,,Yes,No,0,0,1,0,0,8,0,Feeder,,0,Bottom (10 pts.),8
+3567,,Yes,No,0,3,0,0,0,0,0,Feeder,,0,No Attempt,0
+3193,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+117,,No,No,0,0,0,0,0,0,0,None,awful shooter SO MANY FOULS,4,No Attempt,4
+4150,,Yes,No,0,0,2,0,0,0,0,Feeder,,3,Bottom (10 pts.),3
+1708,,Yes,No,0,0,3,0,0,9,0,Feeder,,0,Bottom (10 pts.),9
+4050,,Yes,No,0,0,2,0,0,2,0,Feeder,,2,No Attempt,4
+4289,,No,No,0,0,0,0,0,0,0,Feeder,,4,No Attempt,4
+2603,,Yes,No,0,0,3,0,0,9,0,Feeder,,0,Bottom (10 pts.),9
+4467,,Yes,No,0,0,0,0,0,0,0,None,bumper falling off,0,Bottom (10 pts.),0

@@ -1,0 +1,111 @@
+128,,No,No,0,0,0,0,0,15,0,Feeder,fast, defininate want,0,Bottom (10 pts.),15
+1743,,No,No,0,0,1,0,0,2,0,Floor,,4,No Attempt,6
+2051,,No,No,0,0,0,0,0,0,0,None,not present in match,0,No Attempt,0
+3955,,No,No,0,0,0,0,0,0,0,None,easy 30 but needs help,0,Bottom (10 pts.),0
+2399,,No,No,0,0,0,0,0,0,0,None,possibly broken by hit from another robot,0,No Attempt,0
+4031,,No,No,0,0,0,0,0,0,0,None,Not much,0,No Attempt,0
+2641,,No,No,0,0,0,0,1,0,0,Floor,,3,Bottom (10 pts.),4
+3567,,Yes,No,0,2,0,0,0,1,0,Feeder,,2,No Attempt,3
+1743,,Yes,No,0,0,1,0,0,2,0,Floor,slow reload time on floor,3,No Attempt,5
+3291,,Yes,No,0,0,2,0,1,0,0,Both,,1,Bottom (10 pts.),2
+128,,Yes,No,0,0,3,0,0,20,0,Feeder,,0,Bottom (10 pts.),20
+2051,,Yes,No,0,0,2,0,0,2,0,Feeder,,2,No Attempt,4
+3955,,No,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+4803,,No,No,0,0,0,0,0,0,0,None,moved in a way that seemed like a defect,0,No Attempt,0
+1831,,Yes,No,0,0,2,0,0,2,0,Both,,0,Bottom (10 pts.),2
+4050,,No,No,0,0,0,0,0,4,0,Feeder,,0,No Attempt,3
+337,,Yes,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+1708,,Yes,No,0,0,3,0,0,6,0,Feeder,,2,No Attempt,8
+1503,,Yes,No,0,0,4,0,0,13,0,Feeder,wonderful at shooting off balance a bit NEED THEM ON OUR TEAM!,0,Bottom (10 pts.),13
+291,,No,No,0,0,0,8,0,0,0,Both,good movement, fast,0,Bottom (10 pts.),8
+4484,made 0 shots,Yes,No,0,0,0,0,0,0,0,Feeder,slow movement horribly innaccurate,3,Attempt, Fail,3
+3260,,Yes,No,0,0,1,0,0,2,0,Feeder,not a team player slow to shoot,0,Bottom (10 pts.),2
+156,just moved, not very good,Yes,No,0,0,0,0,1,0,0,None,rolled around a bit got jammed easily missed most of its shots,4,Bottom (10 pts.),5
+337,,Yes,No,0,0,0,0,0,1,0,None,,0,No Attempt,1
+3957,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+63,,No,No,0,0,0,0,0,0,0,None,,0,Attempt, Fail,0
+1503,,Yes,No,0,0,4,0,0,15,0,None,shoots 4 at one time,0,Bottom (10 pts.),15
+4032,,No,No,0,0,0,0,0,0,0,None,got 3 penaltes,0,Attempt, Fail,0
+4289,,No,No,0,0,0,0,0,0,0,None,didn't move ,0,No Attempt,0
+449,,No,No,0,0,0,0,0,0,0,None,didn't move,0,No Attempt,0
+306,,Yes,No,0,0,1,0,0,0,0,None,,1,No Attempt,1
+2603,,Yes,No,0,0,2,0,0,0,0,None,,0,Bottom (10 pts.),0
+2656,disc jammed,Yes,No,0,0,0,0,0,0,0,Feeder,rotating shooter for accuracy bad at being fed,0,No Attempt,0
+620,,No,No,0,0,0,0,0,0,0,None,slow played defense,0,Attempt, Fail,0
+3567,,No,No,0,3,0,0,2,0,0,Feeder,,0,No Attempt,2
+3962,,No,No,0,0,0,0,0,0,0,Floor,slow fire rate missed everytime,6,Attempt, Fail,6
+2614,,Yes,No,0,0,0,0,0,4,0,Feeder,pretty accurate,3,Bottom (10 pts.),7
+3193,,No,No,0,0,0,0,0,0,0,None,not moving,0,No Attempt,0
+2656,,No,No,0,0,0,0,0,0,0,Feeder,cannot feed more discs,0,No Attempt,0
+3260,,No,No,0,0,2,0,0,3,0,Feeder,,2,No Attempt,5
+4032,,No,No,0,0,0,0,0,0,0,None,Did not do anything,0,No Attempt,0
+620,,No,No,0,0,0,0,0,0,0,None,couldn't shot,0,Bottom (10 pts.),0
+3511,,No,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+4289,,No,No,0,0,0,0,0,2,0,Both,,0,No Attempt,2
+4409,,Yes,No,0,0,0,0,0,0,0,None,didn't move,0,No Attempt,0
+4027,,Yes,No,0,0,3,0,0,0,0,Feeder,,0,No Attempt,0
+4049,,No,No,3,0,0,5,0,0,0,Feeder,Cannot climb higher.,3,Bottom (10 pts.),8
+3504,,No,No,0,0,0,0,0,0,0,Feeder,Missed all 3 feeders.,6,No Attempt,6
+4467,,Yes,No,0,0,2,0,0,0,0,Feeder,Had disc loading difficulties.,0,Bottom (10 pts.),0
+4031,,No,No,0,0,0,0,1,0,0,None,Slow.,0,No Attempt,1
+4027,,Yes,No,0,0,1,0,0,1,0,Feeder,Can shoot from long distance.,2,No Attempt,3
+2614,Missed 3 shots.,Yes,No,0,0,0,0,0,2,0,Feeder,,2,Bottom (10 pts.),4
+4050,All 3 discs missed.,Yes,No,0,0,0,0,0,2,0,Feeder,,2,No Attempt,4
+156,One disc bounced out of the two point goal.,Yes,No,0,1,0,0,4,0,0,Both,Easily and quickly picks up from ground.,4,Bottom (10 pts.),8
+4049,,No,No,0,0,0,7,0,0,0,Feeder,Dumper. Crashed into another robot popping the hood up.,0,Bottom (10 pts.),7
+3957,,No,No,0,0,0,0,0,0,0,None,Defense? Never attempted to shoot or climb.,0,No Attempt,0
+291,Spun the entire time.,No,No,0,0,0,0,0,0,0,Feeder,Very fast. Appears very easy to maneuver.,0,Bottom (10 pts.),0
+4032,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+3062,,Yes,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+2544,,Yes,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+3904,,No,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+4049,,Yes,No,0,0,0,9,0,0,0,None,,0,Bottom (10 pts.),9
+63,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+4027,,No,No,0,0,0,0,0,1,0,None,,0,Bottom (10 pts.),1
+2603,,Yes,No,0,0,0,0,0,0,0,Feeder,,0,Bottom (10 pts.),0
+3567,,Yes,No,0,0,0,0,2,2,0,Feeder,,2,No Attempt,6
+4427,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+2656,,Yes,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+1708,,Yes,No,0,0,1,0,0,6,0,None,,3,Bottom (10 pts.),9
+4547,,Yes,No,0,0,0,1,0,0,0,None,,1,No Attempt,2
+2252,,No,No,0,0,0,0,0,1,0,Feeder,,3,No Attempt,4
+4467,,No,No,0,0,2,0,0,0,0,Feeder,Repeated stopping,0,No Attempt,0
+4601,,No,No,0,0,0,0,0,11,0,None,,3,Bottom (10 pts.),14
+2641,,Yes,No,0,0,1,0,0,0,0,Floor,,3,Bottom (10 pts.),3
+1708,,Yes,No,0,0,3,0,0,12,0,Feeder,Very fast,3,Bottom (10 pts.),15
+620,,No,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+2051,,No,No,0,0,0,0,0,0,0,None,Played defensively.,0,No Attempt,0
+3962,,No,No,0,0,0,0,1,0,0,Floor,,2,Bottom (10 pts.),3
+337,,Yes,No,0,0,0,0,0,0,0,Feeder,,1,Attempt, Fail,1
+2252,,No,No,0,0,0,0,0,2,0,None,,0,No Attempt,2
+2603,,Yes,No,0,0,1,0,0,7,0,None,,1,No Attempt,8
+2399,,Yes,No,0,0,0,0,0,0,0,None,,2,No Attempt,2
+4401,,No,No,0,0,0,0,2,2,0,None,,4,Attempt, Fail,8
+128,,Yes,No,0,0,3,0,0,11,0,None,,5,Bottom (10 pts.),16
+1743,,Yes,No,0,0,0,0,0,1,0,None,,3,No Attempt,4
+3954,,No,No,0,0,0,0,3,0,0,None,,3,No Attempt,6
+2641,,Yes,No,0,0,0,0,0,0,0,Floor,defence,0,Bottom (10 pts.),0
+2544,,No,No,0,0,0,0,0,0,0,Feeder,bumper fell off mostly defensive but failed at it,0,No Attempt,0
+4150,,Yes,No,0,0,1,0,0,3,0,Feeder,top heavy off balance,5,Bottom (10 pts.),8
+3193,,Yes,No,0,0,2,0,0,2,0,Feeder,communication issues with feeder station,1,Bottom (10 pts.),3
+4601,,Yes,No,0,0,2,0,0,8,0,Feeder,very accurate at shooting,0,No Attempt,8
+2614,,Yes,No,0,0,0,0,0,8,0,Feeder,Rapid controlled movement,0,Bottom (10 pts.),8
+4032,,No,No,0,0,0,0,0,0,0,Feeder,gets in the way of own alliance a bit attempted defense against other alliance: failed,0,No Attempt,0
+4050,,No,No,0,0,0,0,0,5,0,Feeder,,2,No Attempt,7
+2544,no auto,No,No,0,0,0,2,0,0,0,Feeder,Just drove back and forth,2,No Attempt,4
+3193,,Yes,No,0,0,3,0,0,3,0,Feeder,,4,Bottom (10 pts.),7
+4547,,Yes,No,0,0,0,0,0,0,0,Feeder,Spent the whole game trying to ger discs,0,No Attempt,0
+3492,,Yes,No,0,0,0,0,0,0,0,Feeder,Bumper fell off,3,Bottom (10 pts.),3
+2399,,Yes,No,0,0,0,0,0,0,0,None,Just dorve around and didn't do anything,2,No Attempt,2
+4150,,Yes,No,0,0,3,0,0,4,0,Feeder,,3,Bottom (10 pts.),7
+63,,No,No,0,0,0,0,0,0,0,None,Did nothing,0,Attempt Fail,0
+3504,,Yes,No,0,0,0,0,0,0,0,Feeder,very poor communication at feeder station wasted lots of time there,0,Attempt, Fail,0
+4150,,Yes,No,0,0,3,0,0,0,0,Feeder,,0,Bottom (10 pts.),0
+3492,,No,No,0,0,0,0,0,0,0,Feeder,,0,Bottom (10 pts.),0
+306,,Yes,No,0,0,0,0,0,1,0,None,shaky on motion,4,No Attempt,5
+4027,,Yes,No,0,0,0,0,0,0,0,None,jerky movement,1,No Attempt,1
+4467,,No,No,0,0,0,0,0,0,0,Feeder,Defensive but not effective,0,No Attempt,0
+4547,,Yes,No,0,0,0,0,0,0,0,Feeder,no shooting no defense,0,No Attempt,0
+449,,No,No,0,0,0,0,0,0,0,Feeder,,3,Bottom (10 pts.),3
+3260,,Yes,No,0,0,1,0,0,1,0,Feeder,,1,Bottom (10 pts.),2
+4547,,No,No,0,0,0,0,0,0,0,Feeder,defense bad at it,0,No Attempt,0

@@ -1,0 +1,77 @@
+156,,Yes,No,0,2,0,0,3,1,0,Feeder,,2,Bottom (10 pts.),6
+1743,,Yes,No,0,0,0,0,2,5,0,Floor,,0,No Attempt,7
+3955,,No,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+4049,,No,No,0,0,0,9,0,0,0,None,,1,Attempt, Fail,10
+291,,Yes,No,0,0,0,12,0,0,0,Feeder,,1,No Attempt,13
+4032,,No,No,0,0,0,0,0,0,0,None,Froze halfway through match.,0,No Attempt,0
+4601,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+4150,,No,No,0,0,0,0,0,1,0,Feeder,,8,Bottom (10 pts.),9
+337,,No,No,0,0,0,0,0,0,0,None,Not enough friction in shooter-unfunctional.,0,Bottom (10 pts.),0
+3955,,No,No,0,0,0,0,0,0,0,None,,0,Top (30 pts.),0
+3504,,Yes,No,0,0,1,0,0,2,0,None,,2,Bottom (10 pts.
+3492,,Yes,No,0,0,0,0,0,1,0,None,,3,Bottom (10 pts.),4
+4789,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+449,,No,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+4803,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+63,,No,No,0,0,0,0,0,0,0,None,,2,Bottom (10 pts.),2
+4601,,No,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+2051,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+620,,No,No,0,0,0,0,0,1,0,Floor,,0,Bottom (10 pts.),1
+3260,,Yes,No,0,0,2,0,0,0,0,None,,2,Bottom (10 pts.),2
+,,No,No,0,0,0,0,1,0,0,None,barely moved,2,No Attempt,3
+4031,,No,No,0,0,0,0,2,0,0,None,barely moved,0,No Attempt,2
+3492,,Yes,No,0,0,1,0,0,10,0,Feeder,we're the best around nothings ever gonna keep us down,2,Bottom (10 pts.),12
+291,,No,No,0,0,0,6,0,0,0,Feeder,,0,Bottom (10 pts.),6
+156,,Yes,No,0,2,0,0,4,0,0,Both,,2,Bottom (10 pts.),6
+449,,Yes,No,0,0,0,0,0,0,0,None,,0,Bottom (10 pts.),0
+2641,,Yes,No,0,0,1,0,0,3,0,None,sweeps up frisbees from floor,0,Bottom (10 pts.),3
+3260,,Yes,No,0,0,1,0,0,0,0,None,,3,Bottom (10 pts.),3
+2614,,Yes,No,0,0,3,0,4,4,0,None,,4,No Attempt,12
+4050,,Yes,No,0,0,1,0,0,0,0,None,,0,No Attempt,0
+4601,,Yes,No,0,0,3,0,0,0,0,None,,0,No Attempt,0
+4803,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+2544,,Yes,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+4049,,No,No,0,0,0,4,0,0,0,None,,0,Bottom (10 pts.),4
+3957,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+2051,,No,No,0,0,0,0,0,0,0,Feeder,,0,Attempt, Fail,0
+3955,,No,No,0,0,0,0,0,0,0,None,tried to go to 3rd level,0,Middle (20 pts.),0
+2252,,Yes,No,0,0,3,0,0,8,0,None,Fast, fairly accurate.,4,No Attempt,12
+4032,,No,No,0,0,0,0,0,0,0,None,Playing defense?,0,No Attempt,0
+2614,,Yes,No,0,0,1,0,0,6,0,None,,5,Bottom (10 pts.),11
+3954,,Yes,No,0,0,0,0,3,2,0,Feeder,Slow shooter. Shot while hanging.,4,Bottom (10 pts.),9
+337,,Yes,No,0,0,0,0,0,0,0,None,Did not shoot.,0,Bottom (10 pts.),0
+156,,Yes,No,0,0,1,0,3,1,0,Floor,Had disc firing issues.,2,Bottom (10 pts.),6
+4547,Extremely accurate.,Yes,No,0,3,0,0,0,0,0,None,Seemed to have connection Issues. Played defense.,0,No Attempt,0
+4601,,Yes,No,0,0,3,0,0,7,0,Feeder,,1,Bottom (10 pts.),8
+4027,,Yes,No,0,2,0,0,3,1,0,Feeder,,3,Bottom (10 pts.),7
+3954,,Yes,No,0,0,0,0,3,0,0,Feeder,,1,Bottom (10 pts.),4
+4032,,No,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+306,,Yes,No,0,0,3,0,0,1,0,Feeder,,0,No Attempt,1
+4484,No-show.,No,No,0,0,0,0,0,0,0,None,No-show for Q37.,0,No Attempt,0
+620,,Yes,No,0,0,0,0,4,0,0,Floor,Very powerful shooter.,1,Bottom (10 pts.),5
+2656,,Yes,No,0,0,2,0,0,0,0,None,Played defense.,0,No Attempt,0
+3511,,No,No,0,0,0,0,1,0,0,Feeder,Good defense.,0,Bottom (10 pts.),1
+1629,,Yes,No,0,0,3,0,0,11,3,Feeder,Shot from the feeder station.,5,Bottom (10 pts.),19
+449,,Yes,No,0,0,0,0,4,0,0,Feeder,,0,Bottom (10 pts.),4
+2399,Quick shooter.,Yes,No,0,0,2,0,0,0,0,Feeder,,2,Bottom (10 pts.),2
+128,,Yes,No,0,0,2,0,0,11,0,Feeder,Incredibly accurate.,0,No Attempt,11
+3954,,Yes,No,0,0,0,0,1,0,0,Feeder,,3,Bottom (10 pts.),4
+1708,,No,No,0,0,0,0,0,10,0,Feeder,,1,Bottom (10 pts.),11
+3962,,Yes,No,0,0,0,0,0,0,0,Floor,,0,Bottom (10 pts.),0
+2252,,Yes,No,0,0,1,0,1,2,0,Feeder,,2,No Attempt,5
+1743,,Yes,No,0,0,0,0,0,0,0,Both,,0,No Attempt,0
+3492,,Yes,No,0,0,1,0,0,5,0,Feeder,,3,Bottom (10 pts.),8
+2544,,Yes,No,0,0,0,0,0,0,0,None,,0,No Attempt,0
+2399,,Yes,No,0,0,0,0,0,0,0,Feeder,,3,No Attempt,3
+4049,,No,No,0,0,0,8,0,0,0,Feeder,,1,Bottom (10 pts.),9
+3511,,No,No,0,0,0,0,0,0,0,Feeder,,0,Bottom (10 pts.),0
+4031,,No,No,0,0,0,0,0,2,0,None,,2,No Attempt,4
+3957,,No,No,0,0,0,0,0,0,0,None,not much,0,No Attempt,0
+3567,,Yes,No,0,0,0,0,0,0,0,None,not much,0,No Attempt,0
+4027,,Yes,No,0,0,0,0,1,0,0,Feeder,,6,Bottom (10 pts.),7
+4289,,No,No,0,0,0,0,0,2,0,Feeder,,0,No Attempt,2
+3962,,No,No,0,0,0,0,1,0,0,None,,3,Bottom (10 pts.),4
+4467,,Yes,No,0,0,2,0,0,0,0,Feeder,,0,Bottom (10 pts.),0
+63,,No,No,0,0,0,6,0,0,0,Feeder,,0,Bottom (10 pts.),6
+3504,,Yes,No,0,0,0,0,1,2,0,Feeder,,1,Attempt, Fail,4
+620,,No,No,0,0,0,0,1,0,0,None,,1,Bottom (10 pts.),2
